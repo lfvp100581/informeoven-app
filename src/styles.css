@@ -1,0 +1,25 @@
+body {
+    background: #ccc5b9;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h5 {
+    text-transform: lowercase;
+    font-family: 'Orbitron', sans-serif;
+}
+
+h5::first-letter {
+    text-transform: uppercase;
+}
+
+img {
+    width: 100px;
+}
+
+.logo_oven {
+    font-size: 40px;
+    color: #000;
+}
