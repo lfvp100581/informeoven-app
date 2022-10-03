@@ -1,5 +1,8 @@
 body {
-    background: #ccc5b9;
+    /* background: #ccc5b9; */
+    background: rgb(9, 86, 121);
+    background: radial-gradient(circle, rgba(9, 86, 121, 1) 1%, rgba(0, 212, 255, 1) 100%);
+
 }
 
 h1 {
