@@ -1,9 +1,22 @@
 body {
-    /* background: #ccc5b9; */
-    background: rgb(9, 86, 121);
-    background: radial-gradient(circle, rgba(9, 86, 121, 1) 1%, rgba(0, 212, 255, 1) 100%);
 
+    background-image: url("../img/textura4.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+   /*  background-repeat: repeat; */
+    background-size: cover;
 }
+
+.card { 
+    background-color: #128c7e;
+    color: #fff;
+}
+
+input[type='tel'] {padding: 12px;}
 
 h1 {
     font-family: 'Roboto', sans-serif;
